@@ -2,7 +2,8 @@ import * as React from "react";
 import { render } from "react-dom";
 
 import "./styles.css";
-import Demo from "./patterns/structural/adapter/Demo";
+// import Demo from "./patterns/structural/adapter/Demo";
+import Demo from "./patterns/structural/bridge/Demo";
 
 function App() {
   return (
