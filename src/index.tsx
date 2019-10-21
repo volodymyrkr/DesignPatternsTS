@@ -3,7 +3,8 @@ import { render } from "react-dom";
 
 import "./styles.css";
 // import Demo from "./patterns/structural/adapter/Demo";
-import Demo from "./patterns/structural/bridge/Demo";
+// import Demo from "./patterns/structural/bridge/Demo";
+import Demo from "./patterns/creational/builder/Demo";
 
 function App() {
   return (
