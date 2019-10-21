@@ -1,2 +1,0 @@
-# DesignPatternsTS
-Created with CodeSandbox
