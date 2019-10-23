@@ -29,7 +29,7 @@ function Demo() {
     .build();
   return (
     <div>
-      <h1>Structural</h1>
+      <h1>Creational</h1>
       <h2>Builder Demo</h2>
       <div>
         <div>Person Name: {person.name}</div>
